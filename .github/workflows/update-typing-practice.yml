@@ -20,5 +20,5 @@ jobs:
           date=$(date '+%Y-%m-%d')
           commitMsg="${date} ${{ inputs.update_message}}"
           echo ${commitMsg}
-          git commit -m "${commitMsg}"
+          git commit --allow-empty -m "${commitMsg}"
           git push origin HEAD:main
