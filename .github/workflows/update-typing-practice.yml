@@ -18,6 +18,7 @@ jobs:
       - name: commit & push today's practice log
         run: |
           date=$(date '+%Y-%m-%d')
-          commitMsg=${date}" "${{ inputs.update_message}}
+          commitMsg=${date} ${{ inputs.update_message}}
+          echo ${commitMsg}
           git commit -m ${commitMsg}
           git push origin HEAD:main
