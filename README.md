@@ -16,3 +16,4 @@ To be a better programmer, typing is a must not a thing nice to have.
 | 2022-8-20 | r&u t&p               |
 | 2022-08-26 | test |
 | 2022-08-27 | numbers |
+| 2022-08-28 | look different scrutinise |
