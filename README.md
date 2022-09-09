@@ -28,3 +28,4 @@ To be a better programmer, typing is a must not a thing nice to have.
 | 2022-09-06 | ?” |
 | 2022-09-07 | 5202 is hard; hundred ranks |
 | 2022-09-08 | vm |
+| 2022-09-09 | normal practice |
