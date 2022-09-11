@@ -30,3 +30,4 @@ To be a better programmer, typing is a must not a thing nice to have.
 | 2022-09-08 | vm |
 | 2022-09-09 | normal practice |
 | 2022-09-10 | tear heart |
+| 2022-09-11 | ece mum |
