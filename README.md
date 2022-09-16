@@ -33,3 +33,4 @@ To be a better programmer, typing is a must not a thing nice to have.
 | 2022-09-11 | ece mum |
 | 2022-09-14 | develop |
 | 2022-09-15 | protocol acceptable |
+| 2022-09-16 | tomorrow train this again |
