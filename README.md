@@ -35,3 +35,4 @@ To be a better programmer, typing is a must not a thing nice to have.
 | 2022-09-15 | protocol acceptable |
 | 2022-09-16 | tomorrow train this again |
 | 2022-09-20 | without pace, without preasure |
+| 2022-09-21 | quote 1232 |
