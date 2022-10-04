@@ -38,3 +38,4 @@ To be a better programmer, typing is a must not a thing nice to have.
 | 2022-09-21 | quote 1232 |
 | 2022-09-25 | normal |
 | 2022-09-27 | normal |
+| 2022-10-04 | A game of thrones |
