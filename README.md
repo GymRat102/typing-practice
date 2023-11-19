@@ -1,7 +1,14 @@
 ## Goal
 
-To be a better programmer, typing is a must not a thing nice to have.
+To be a better programmer, typing speed training is a must, not a thing nice to have. Even generally, proficiency in typing will boost your efficiency of using your machine.
 
+It's worth noting that the motive of this exercise is to prepare myself to learn Vim.
+
+Each time, I do a 20-minute practice and use a Shortcut on my Mac to trigger the GitHub Actions workflow in this repo (kudos to @yihong0618 for [his instruction](https://github.com/yihong0618/gitblog/issues/198) on how to set it up), which simply log the date and a short note from my input into the table below.
+
+The website I use to practice is [TypingClub](https://www.typingclub.com/sportal/program-3.game) and [Monkeytype](https://monkeytype.com/).
+
+As the old saying goes, practice makes perfect.
 
 
 ## Practice Tracking
