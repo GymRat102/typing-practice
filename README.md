@@ -47,3 +47,4 @@ As the old saying goes, practice makes perfect.
 | 2022-09-27 | normal |
 | 2022-10-04 | A game of thrones |
 | 2023-11-19 | test |
+| 2023-11-19 | posture, dignity, eyes |
