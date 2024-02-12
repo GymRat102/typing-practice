@@ -54,3 +54,4 @@ As the old saying goes, practice makes perfect.
 | 2023-11-29 | gr gro gre great exchange |
 | 2023-12-04 | RFV UJM |
 | 2024-02-12 | test |
+| 2024-02-12 | test new token |
