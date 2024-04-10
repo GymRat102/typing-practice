@@ -58,3 +58,4 @@ As the old saying goes, practice makes perfect.
 | 2024-04-06 | population；film；Madagascar 马达加斯加；正确率比速度更重要，如果感觉到可能会出错，最好的方法是慢下来调整，而不是蛮力凭运气，动态调整能力可以慢慢增强 |
 | 2024-04-06 | secretaries; were; 1970s; 1980s; hand-written |
 | 2024-04-10 | new jellyfish; astronaut; like; Biology |
+| 2024-04-10 | need to practice pattern |
