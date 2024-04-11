@@ -59,3 +59,4 @@ As the old saying goes, practice makes perfect.
 | 2024-04-06 | secretaries; were; 1970s; 1980s; hand-written |
 | 2024-04-10 | new jellyfish; astronaut; like; Biology |
 | 2024-04-10 | need to practice pattern |
+| 2024-04-11 | I feel mac keyboard is too hard to press; were; instruction |
