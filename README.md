@@ -61,3 +61,4 @@ As the old saying goes, practice makes perfect.
 | 2024-04-10 | need to practice pattern |
 | 2024-04-11 | I feel mac keyboard is too hard to press; were; instruction |
 | 2024-04-14 | nomadic; capital; Mongolia; endangered; recognize; conservation; rarest; temperate |
+| 2024-04-17 | test1;test2 |
