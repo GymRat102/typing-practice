@@ -66,3 +66,7 @@ As the old saying goes, practice makes perfect.
 | 2024-04-17 | test1 |
 | 2024-04-17 | test2 |
 | 2024-04-17 | test3 |
+| 2024-04-17 | dessert, desert |
+| 2024-04-17 | hole whole |
+| 2024-04-17 | prepare presence |
+| 2024-04-17 | squirrel squash |
