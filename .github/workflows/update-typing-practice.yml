@@ -18,7 +18,7 @@ jobs:
       - name: commit & push today's practice log
         run: |
           date=$(date '+%Y-%m-%d')
-          IFS=',' read -ra array <<< "${{ inputs.update_message }}"
+          IFS=';' read -ra array <<< "${{ inputs.update_message }}"
 
           for element in "${array[@]}"
           do
