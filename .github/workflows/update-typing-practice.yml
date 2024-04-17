@@ -22,7 +22,7 @@ jobs:
 
           for element in "${array[@]}"
           do
-            updateMsg="| ${date} | ${{ inputs.update_message}} |"
+            updateMsg="| ${date} | ${element} |"
             echo ${updateMsg} >> README.md
           done
 
