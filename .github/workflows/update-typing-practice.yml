@@ -18,9 +18,15 @@ jobs:
       - name: commit & push today's practice log
         run: |
           date=$(date '+%Y-%m-%d')
-          updateMsg="| ${date} | ${{ inputs.update_message}} |"
-          echo ${updateMsg} >> README.md
-          commitMsg="${date} ${{ inputs.update_message}}"
+          IFS=',' read -ra array <<< "${{ inputs.update_message }}"
+
+          for element in "${array[@]}"
+          do
+            updateMsg="| ${date} | ${{ inputs.update_message}} |"
+            echo ${updateMsg} >> README.md
+          done
+
+          commitMsg="${date} ${{ inputs.update_message }}"
           git add README.md
           git commit -m "${commitMsg}"
           git push origin HEAD:main
