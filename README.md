@@ -70,3 +70,6 @@ As the old saying goes, practice makes perfect.
 | 2024-04-17 | hole whole |
 | 2024-04-17 | prepare presence |
 | 2024-04-17 | squirrel squash |
+| 2024-04-20 | labyrinth |
+| 2024-04-20 | their |
+| 2024-04-20 | foreign |
